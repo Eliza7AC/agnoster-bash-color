@@ -36,4 +36,5 @@ Use the two others functions `prompt_context()` and `build_prompt()` from theme.
 
 You can change colors in the configuration file as you wish, as following: `prompt_segment colorBackground colorForeground`
 
-### In any case, don't forget to update config file with `source .bashrc`
+### In any case, don't forget to update config file with 
+`source .bashrc`
