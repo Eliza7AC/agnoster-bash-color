@@ -12,7 +12,7 @@ This configuration is aimed to have changing colors every time the user enters a
 
 <img src="https://github.com/manialinux/agnoster-bash-color/blob/main/agnoster-bash-random-color.png" alt="drawing" width="500"/>
 
-All you have to do is replace your configuration file (which should be located at `~.oh-my-bash/themes/agnoster/agnoster.theme.sh` ) by the content of [theme1.sh](https://github.com/manialinux/agnoster-bash-color/blob/main/theme-random-color.sh).
+All you have to do is replace your configuration file of agnoster theme (which should be located at `~.oh-my-bash/themes/agnoster/agnoster.theme.sh` ) by the content of [theme1.sh](https://github.com/manialinux/agnoster-bash-color/blob/main/theme-random-color.sh).
 
 
 ## Script 2 ~ fixed colors 
