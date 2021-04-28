@@ -11,6 +11,8 @@ Firstly, install and use Oh-My-Bash and agnoster theme.
 ### Step 2
 
 Then, open configuration file of agnoster theme with editor (configuration file is located at ~.oh-my-bash/themes/agnoster/agnoster.theme.sh).
+For example, with gedit:
+`edit .oh-my-bash/themes/agnoster/agnoster.theme.sh`
 
 Add the two news functions `prompt_historyline()` and `prompt_time()` from theme.sh file of this project to your config file.
 
