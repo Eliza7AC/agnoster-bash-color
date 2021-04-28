@@ -24,8 +24,8 @@ This configuration enables to have fixed colors in terminal.
 In your configuration file of agnoster theme (which should be located at `~.oh-my-bash/themes/agnoster/agnoster.theme.sh`):
 
 <ul>
-  <li>Add the two news functions `prompt_historyline()` and `prompt_time()` from theme.sh file of this project to your config file.</li>
-  <li>Use the two others functions `prompt_context()` and `build_prompt()` from theme.sh file to replace already existing functions in your configuration file.</li>
+  <li>Add the two news functions `prompt_historyline()` and `prompt_time()` from [theme-fixed-color](https://github.com/manialinux/agnoster-bash-color/blob/main/theme-fixed-color.sh) to your config file.</li>
+  <li>Use the two others functions `prompt_context()` and `build_prompt()` to replace already existing functions in your configuration file.</li>
 </ul>
 
 
