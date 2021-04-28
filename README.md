@@ -1,18 +1,20 @@
 # agnoster-bash-color
-A configuration file to have history line and time in different colors with agnoster theme.
+This configuration is used to have history line and time in different colors with agnoster theme and [Oh-My-Bash](https://ohmybash.nntoan.com/).
 
-Steps:
+### Step 1
 
+Firstly, install and use Oh-My-Bash and agnoster theme.
 
-1 # Firstly, install and use Oh-My-Bash and agnoster theme.
+### Step 2
 
-2 # Then, open configuration file of agnoster theme with editor (configuration file is located at ~.oh-my-bash/themes/agnoster/agnoster.theme.sh).
+Then, open configuration file of agnoster theme with editor (configuration file is located at ~.oh-my-bash/themes/agnoster/agnoster.theme.sh).
 
-Add the two news functions prompt_historyline() and prompt_time() from theme.sh file of this project.
+Add the two news functions `prompt_historyline()` and `prompt_time()` from theme.sh file of this project.
 
-Use the two others functions prompt_context() and build_prompt() (from theme.sh file) to replace already existing functions in your configuration file.
+Use the two others functions `prompt_context()` and `build_prompt()` from theme.sh file to replace already existing functions in your configuration file.
 
 Save the changes and enter following command to update configuration file:
-source .bashrc
+`source .bashrc`
 
-3 # change colors in configuration file as you wish, as following: prompt_segment colorBackground colorForeground
+### Step 3
+change colors in configuration file as you wish, as following: prompt_segment colorBackground colorForeground
