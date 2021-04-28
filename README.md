@@ -17,7 +17,7 @@ This configuration is aimed to have changing colors every time the user enters a
 All you have to do is replace your configuration file (which should be located at `~.oh-my-bash/themes/agnoster/agnoster.theme.sh` ) by the content of [theme1.sh]().
 
 
-## Script 2 ~ colors fixed 
+## Script 2 ~ fixed colors 
 
 This configuration allows to have fixed colors in terminal.
 
