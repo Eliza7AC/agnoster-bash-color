@@ -1,5 +1,5 @@
 # agnoster-bash-color
-This configuration of agnoster theme is used to have history line, time and username in different colors. There is two available configurations: **random colors** and **fixed colors**. Choose the one you prefer.
+This configuration of agnoster theme is used to have history line, time and username in different colors. There is two available configurations: **random colors** and **fixed colors**. Choose the one you prefer. :cupid:
 
 ### Prerequisites
 
