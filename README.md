@@ -29,7 +29,7 @@ In your configuration file of agnoster theme (which should be located at `~.oh-m
 
 
 
-#### Optional
+### Optional
 
 You can change colors in the configuration file as you wish, in functions of your choice, as respecting the following syntax:
 `prompt_segment colorBackground colorForeground`
