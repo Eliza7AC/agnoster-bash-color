@@ -1,6 +1,10 @@
 # agnoster-bash-color
 This configuration is used to have history line and time in different colors with agnoster theme and [Oh-My-Bash](https://ohmybash.nntoan.com/).
 
+![GitHub Logo](https://github.com/manialinux/agnoster-bash-color/blob/main/agnoster-bash-color.png)
+
+
+
 ### Step 1
 
 Firstly, install and use Oh-My-Bash and agnoster theme.
@@ -17,4 +21,5 @@ Save the changes and enter following command to update configuration file:
 `source .bashrc`
 
 ### Step 3
-change colors in configuration file as you wish, as following: prompt_segment colorBackground colorForeground
+
+Change colors in your configuration file as you wish, as following: `prompt_segment colorBackground colorForeground`
