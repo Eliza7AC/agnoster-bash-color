@@ -1,8 +1,7 @@
 # agnoster-bash-color
 This configuration is used to have history line and time in different colors with agnoster theme and [Oh-My-Bash](https://ohmybash.nntoan.com/).
 
-![GitHub Logo](https://github.com/manialinux/agnoster-bash-color/blob/main/agnoster-bash-color2.png)
-
+<img src="https://github.com/manialinux/agnoster-bash-color/blob/main/agnoster-bash-color.png" alt="drawing" width="500"/>
 
 
 ### Step 1
