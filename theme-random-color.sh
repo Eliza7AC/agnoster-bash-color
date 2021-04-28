@@ -248,8 +248,6 @@ array_color[6]="cyan"
 array_color[7]="orange"
 array_color[8]="white"
 
-# displaying arr: # echo ${array_color[$randomIndex]} # suppr
-
 # choice of colors with random index
 # each color has to differ from its neighbor
 randomH=$(( RANDOM % 8 ))
