@@ -33,5 +33,5 @@ In your configuration file of agnoster theme (which should be located at `~.oh-m
 
 You can change colors in the configuration file as you wish, as following: `prompt_segment colorBackground colorForeground`
 
-### In any case, don't forget to update config file with the command 
+### In any case, don't forget to update config file with the following command in /home/user
 `source .bashrc`
