@@ -21,6 +21,6 @@ Use the two others functions `prompt_context()` and `build_prompt()` from theme.
 Save the changes and enter following command to update configuration file:
 `source .bashrc`
 
-### Step 3
+### Step 3 : optional
 
 Change colors in your configuration file as you wish, as following: `prompt_segment colorBackground colorForeground`
