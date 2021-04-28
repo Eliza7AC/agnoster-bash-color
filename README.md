@@ -19,7 +19,7 @@ All you have to do is replace your configuration file (which should be located a
 
 ## Script 2 ~ fixed colors 
 
-This configuration allows to have fixed colors in terminal.
+This configuration enables to have fixed colors in terminal.
 
 <img src="https://github.com/manialinux/agnoster-bash-color/blob/main/agnoster-bash-fixed-color.png" alt="drawing" width="500"/>
 
