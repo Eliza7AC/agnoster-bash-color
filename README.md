@@ -1,7 +1,5 @@
 # agnoster-bash-color
-This configuration is used to have history line and time in different colors with agnoster theme and [Oh-My-Bash](https://ohmybash.nntoan.com/).
-
-There is two available configurations: **random colors** and **fixed colors**. Choose the one you prefer.
+This configuration of agnoster theme is used to have history line and time in different color. There is two available configurations: **random colors** and **fixed colors**. Choose the one you prefer.
 
 #### Prerequisite
 
