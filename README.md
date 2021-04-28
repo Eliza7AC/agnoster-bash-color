@@ -32,6 +32,7 @@ In your configuration file of agnoster theme (which should be located at `~.oh-m
 ### Optional
 
 You can change colors in the configuration file as you wish, in functions of your choice, as respecting the following syntax:
+
 `prompt_segment colorBackground colorForeground`
 
 If you want to hide some informations (line history, time or username), go to build_prompt() function (at the end of the config file) and comment the function(s) you want to hide.
