@@ -21,7 +21,7 @@ This configuration enables to have fixed colors in terminal.
 
 <img src="https://github.com/manialinux/agnoster-bash-color/blob/main/agnoster-bash-fixed-color.png" alt="drawing" width="500"/>
 
-In your configuration file (which should be located at `~.oh-my-bash/themes/agnoster/agnoster.theme.sh`):
+In your configuration file of agnoster theme (which should be located at `~.oh-my-bash/themes/agnoster/agnoster.theme.sh`):
 
 <ul>
   <li>Add the two news functions `prompt_historyline()` and `prompt_time()` from theme.sh file of this project to your config file.</li>
