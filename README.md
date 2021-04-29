@@ -23,7 +23,7 @@ This configuration enables to have fixed colors in terminal.
 
 :black_circle: All you have to do is add the code from file ( [theme-random-color.sh](https://github.com/manialinux/agnoster-bash-color/blob/main/theme-random-color.sh) or [theme-fixed-color.sh](https://github.com/manialinux/agnoster-bash-color/blob/main/theme-fixed-color.sh) according to what your choose) to your configuration file of agnoster theme (which should be located at `~/.oh-my-bash/themes/agnoster/agnoster.theme.sh` )
 
-:black_circle: Be careful: some functions like prompt_context() and build_prompt() already exist in your config file. Please, comment them.
+:black_circle: **Be careful**: some functions like prompt_context() and build_prompt() already exist in your config file. Please, comment them.
 
 ### Optional
 
