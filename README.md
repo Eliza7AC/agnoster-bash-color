@@ -1,14 +1,9 @@
 # agnoster-bash-color
 This configuration of agnoster theme is used to have history line, time and username in different colors. There are two available configurations: **random colors** and **fixed colors**. Choose the one you prefer. :cupid:
 
-&nbsp;  
-
-### Prerequisites
-
-[Oh-My-Bash](https://ohmybash.nntoan.com/) and [Agnoster theme](https://github.com/ohmybash/oh-my-bash/wiki/Themes) installed
+**Prerequisites**: [Oh-My-Bash](https://ohmybash.nntoan.com/) and [Agnoster theme](https://github.com/ohmybash/oh-my-bash/wiki/Themes) installed
 
 &nbsp;  
-
 
 ## Script 1 ~ random colors
 
