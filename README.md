@@ -20,6 +20,8 @@ This configuration enables to have fixed colors in terminal.
 
 [Oh-My-Bash](https://ohmybash.nntoan.com/) and [Agnoster theme](https://github.com/ohmybash/oh-my-bash/wiki/Themes) installed
 
+&nbsp; 
+
 ---
 
 ### How to proceed
