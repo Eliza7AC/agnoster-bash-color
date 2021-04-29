@@ -25,7 +25,7 @@ In your configuration file of agnoster theme (which should be located at `~/.oh-
 
 :black_circle: Add the two news functions `prompt_historyline()` and `prompt_time()` from [theme-fixed-color.sh](https://github.com/manialinux/agnoster-bash-color/blob/main/theme-fixed-color.sh) to your config file.
 
-:black_circle: Use the two others functions `prompt_context()` and `build_prompt()` to replace these already existing functions in your configuration file.
+:black_circle: Use the two others functions `prompt_context()` and `build_prompt()` to replace the ones already existing in your configuration file.
 
 
 
