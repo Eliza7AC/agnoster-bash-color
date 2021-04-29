@@ -3,7 +3,7 @@ This configuration of agnoster theme is used to have history line, time and user
 
 **Prerequisites**: [Oh-My-Bash](https://ohmybash.nntoan.com/) and [Agnoster theme](https://github.com/ohmybash/oh-my-bash/wiki/Themes) installed
 
-&nbsp;  
+---
 
 ## Script 1 ~ random colors
 
