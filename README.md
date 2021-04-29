@@ -12,8 +12,6 @@ This configuration is aimed to have changing colors every time the user runs a c
 
 <img src="https://github.com/manialinux/agnoster-bash-color/blob/main/agnoster-bash-random-color.png" alt="drawing" width="500"/>
 
-:black_circle: All you have to do is replace the content of your configuration file of agnoster theme (which should be located at `~/.oh-my-bash/themes/agnoster/agnoster.theme.sh` ) by the content of [theme-random-color.sh](https://github.com/manialinux/agnoster-bash-color/blob/main/theme-random-color.sh).
-
 
 ## Script 2 ~ fixed colors 
 
@@ -21,13 +19,11 @@ This configuration enables to have fixed colors in terminal.
 
 <img src="https://github.com/manialinux/agnoster-bash-color/blob/main/agnoster-bash-fixed-color.png" alt="drawing" width="500"/>
 
-In your configuration file of agnoster theme (which should be located at `~/.oh-my-bash/themes/agnoster/agnoster.theme.sh`):
+### How to proceed
 
-:black_circle: Add the two news functions `prompt_historyline()` and `prompt_time()` from [theme-fixed-color.sh](https://github.com/manialinux/agnoster-bash-color/blob/main/theme-fixed-color.sh) to your config file.
+:black_circle: All you have to do is add the code from file ( [theme-random-color.sh](https://github.com/manialinux/agnoster-bash-color/blob/main/theme-random-color.sh) or [theme-fixed-color.sh](https://github.com/manialinux/agnoster-bash-color/blob/main/theme-fixed-color.sh) according to what your choose) to your configuration file of agnoster theme (which should be located at `~/.oh-my-bash/themes/agnoster/agnoster.theme.sh` )
 
-:black_circle: Use the two others functions `prompt_context()` and `build_prompt()` to replace the ones already existing in your configuration file.
-
-
+:black_circle: Be careful: some functions like prompt_context() and build_prompt() already exist in your config file. Please, comment them.
 
 ### Optional
 
