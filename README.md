@@ -37,5 +37,5 @@ You can change colors in the configuration file as you wish, in functions of you
 
 If you dopn't want to display some informations (line history, time or username), go to build_prompt() function (at the end of the config file) and comment the function(s) you want to hide.
 
-### In any case, don't forget to update config file with the following command in /home/user
+### In any case, don't forget to update config file with the following command in /home/user :
 `source .bashrc`
